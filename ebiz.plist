@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://117.32.232.182/MOBILE/Uploads/APP/icon@2x.png</string>
+					<string>http://117.32.232.182/OATEST/Uploads/APP/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://117.32.232.182/MOBILE/Uploads/APP/icon.png</string>
+					<string>http://117.32.232.182/OATEST/Uploads/APP/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Realease20140404</string>
 				<key>title</key>
-				<string>移动OA</string>
+				<string>移动OAceshi</string>
 			</dict>
 		</dict>
 	</array>
